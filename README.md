@@ -1,6 +1,6 @@
 # 📈 Yes Bank Stock Closing Price Prediction
 
-This project aims to predict the **monthly closing stock price** of Yes Bank using machine learning. We explore and analyze real-world historical stock data and build regression models to forecast future trends, providing meaningful insights for investors and businesses.
+This project aims to predict the **monthly closing stock price** of Yes Bank using machine learning. Explored and analyzed real-world historical stock data and built regression models to forecast future trends, providing meaningful insights for investors and businesses.
 
 ---
 
