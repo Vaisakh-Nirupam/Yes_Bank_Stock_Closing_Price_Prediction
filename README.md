@@ -98,4 +98,4 @@ This project proves that even with basic regression techniques, it is possible t
 - `yes_bank_stock_prediction.ipynb` – Jupyter Notebook with full code
 - `model.pkl` – Saved model and scaler
 - `README.md` – Project documentation
-- `requirements.txt` _(optional)_ – Add if needed for environment setup
+- `requirements.txt` – Project Dependencies
