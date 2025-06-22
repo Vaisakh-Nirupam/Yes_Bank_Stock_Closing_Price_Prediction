@@ -28,6 +28,7 @@ Predict the **monthly closing price** of Yes Bank stock using historical stock f
 - Python
 - Pandas, NumPy
 - Seaborn, Matplotlib
+- Scipy
 - Scikit-learn
 - Pickle
 
@@ -68,7 +69,7 @@ Models used:
 
 ### 6. **Evaluation Metrics**
 
-- `Mean Squared Error (MSE)`
+- `Root Mean Squared Error (RMSE)`
 - `R² Score`  
   → **Random Forest achieved R² Score: 0.985**
 
